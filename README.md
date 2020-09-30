@@ -2,7 +2,7 @@
 ### Introduction
 Today, data protection is very important so Google considers building a class named `EncryptionSharedPreferences` which is improving `SharedPreferences` instance.
 ### Problem
-This class is in `androidx.security.crypto` package, But working with it in the new version of this library is difficult; so I have prepare you a source code that has a class.
+This class is in `androidx.security.crypto` package, But working with it in the new version of this library is difficult; so I have prepared you a source code that has a class.
 You can do all of works that you can do with `EncryptionSharedPreferences`, `SharedPreferences` and `SharedPreferences.Editor`.Working with it is very similar to `SharedPreferences` and it's super easy.
 ### Example
 
